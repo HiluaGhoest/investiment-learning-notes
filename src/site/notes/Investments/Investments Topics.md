@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/investments/investments-topics/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Investments/Investments Topics/","tags":["gardenEntry"]}
 ---
 
 
