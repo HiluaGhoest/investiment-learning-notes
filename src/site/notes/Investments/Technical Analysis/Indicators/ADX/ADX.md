@@ -24,3 +24,57 @@ A common threshold is **25**:
 - ADX > 25 → strong trend.
     
 - ADX < 20 → weak or ranging market.
+- ---
+## Rules of Interpretation
+
+- **Bullish Crossover**  
+    When the **[[Investments/Technical Analysis/Indicators/ADX/+DI\|+DI]] crosses above the [[Investments/Technical Analysis/Indicators/ADX/-DI\|-DI]]**, and the ADX is rising → indicates buying strength is dominant → **uptrend**.
+    
+- **Bearish Crossover**  
+    When the **[[Investments/Technical Analysis/Indicators/ADX/-DI\|-DI]] crosses above the [[Investments/Technical Analysis/Indicators/ADX/+DI\|+DI]]**, and the [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] is rising → indicates selling strength is dominant → **downtrend**.
+    
+- **Top Signal**  
+    When the **[[Investments/Technical Analysis/Indicators/ADX/+DI\|+DI]] stays above the [[Investments/Technical Analysis/Indicators/ADX/-DI\|-DI]]** with a significant gap, and the [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] declines from high levels → **top signal**.
+    
+- **Bottom Signal**  
+    When the **-DI stays above the +DI** with a considerable gap, and the [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] declines from high levels → **bottom signal**.
+    
+
+---
+
+## Practical Examples
+
+### POSI3 – 05/19/2025
+
+- **Point A:**
+    
+    - -DI crossed above +DI
+        
+    - [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] rising  
+        → Selling strength dominant → segment AB was a **downtrend**
+        
+- **Point B:**
+    
+    - -DI remained above +DI with a large gap
+        
+    - [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] declined from high levels  
+        → **Bottom signal**
+        
+
+---
+
+### HASH11 – 05/19/2025
+
+- **Point C:**
+    
+    - +DI crossed above -DI
+        
+    - [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] turned upward  
+        → Buying strength dominant → segment CD was an **uptrend**
+        
+- **Point D:**
+    
+    - +DI remained above -DI with a significant gap
+        
+    - [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] declined from high levels  
+        → **Top signal**
