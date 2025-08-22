@@ -54,14 +54,14 @@ A common threshold is **25**:
 
 - **Point A:**
     
-    - -DI crossed above +DI
+    - [[Investments/Technical Analysis/Indicators/ADX/-DI\|-DI]] crossed above [[Investments/Technical Analysis/Indicators/ADX/+DI\|+DI]]
         
     - [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] rising  
         → Selling strength dominant → segment AB was a **downtrend**
         
 - **Point B:**
     
-    - -DI remained above +DI with a large gap
+    - [[Investments/Technical Analysis/Indicators/ADX/-DI\|-DI]]remained above [[Investments/Technical Analysis/Indicators/ADX/+DI\|+DI]] with a large gap
         
     - [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] declined from high levels  
         → **Bottom signal**
@@ -74,14 +74,14 @@ A common threshold is **25**:
 ![ADX 6.jpg](/img/user/Investments/Technical%20Analysis/Indicators/ADX/ADX%206.jpg)
 - **Point C:**
     
-    - +DI crossed above -DI
+    - [[Investments/Technical Analysis/Indicators/ADX/+DI\|+DI]] crossed above [[Investments/Technical Analysis/Indicators/ADX/-DI\|-DI]]
         
     - [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] turned upward  
         → Buying strength dominant → segment CD was an **uptrend**
         
 - **Point D:**
     
-    - +DI remained above -DI with a significant gap
+    - [[Investments/Technical Analysis/Indicators/ADX/+DI\|+DI]] remained above [[Investments/Technical Analysis/Indicators/ADX/-DI\|-DI]] with a significant gap
         
     - [[Investments/Technical Analysis/Indicators/ADX/ADX\|ADX]] declined from high levels  
         → **Top signal**
